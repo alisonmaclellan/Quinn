@@ -1,7 +1,8 @@
 site_name: Quinn
 site_description: Friendly AI assistant
+docs_dir: Quinn_Brand_Kit/docs
 extra_css:
- - GitHub_Pages/quinn-theme.css
+  - ../GitHub_Pages/quinn-theme.css
 nav:
- - Home: index.md
- - Style Guide: style.md
+  - Home: index.md
+  - Style Guide: style.md

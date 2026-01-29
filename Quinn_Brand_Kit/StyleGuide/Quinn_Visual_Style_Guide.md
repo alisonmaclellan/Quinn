@@ -41,7 +41,7 @@ Quinn is a friendly AI assistant avatar with a modern, minimalist, professional 
 ## 6) Naming + storage
 Recommended folder structure:
 
-``
+```
 Quinn/
   Avatars/
   Banners/
