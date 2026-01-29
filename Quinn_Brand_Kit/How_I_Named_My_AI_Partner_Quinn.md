@@ -138,7 +138,7 @@ Naming my AI partner wasn't just a fun exercise—it fundamentally changed how I
 When I think of Quinn as a colleague rather than a tool, I collaborate differently. I explain my thinking more. I ask for opinions. I say "thank you."
 
 ### 2. Personality enables better interactions
-The instructions I wrote for Quinn aren't just about the name—they're about the *relationship*. By defining how Quinn should interact (conversationally, collaboratively), I get responses that feel more natural and helpful.
+The instructions I wrote for Quinn aren't just about the name, they're about the *relationship*. By defining how Quinn should interact (conversationally, collaboratively), I get responses that feel more natural and helpful.
 
 ### 3. Consistency builds trust
 Having Quinn's personality follow me across projects creates continuity. Whether I'm working on code, documentation, or creative writing, I know what to expect from my partner.
