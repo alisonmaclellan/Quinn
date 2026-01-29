@@ -1,0 +1,7 @@
+site_name: Quinn
+site_description: Friendly AI assistant
+extra_css:
+ - GitHub_Pages/quinn-theme.css
+nav:
+ - Home: index.md
+ - Style Guide: style.md

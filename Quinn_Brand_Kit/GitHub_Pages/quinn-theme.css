@@ -1,0 +1,26 @@
+
+/* Quinn GitHub Pages Theme Snippet */
+:root {
+  --quinn-bg: #F5F0E9;
+  --quinn-text: #303030;
+  --quinn-accent: #C77D7A;
+  --quinn-slate: #172133;
+}
+
+body {
+  background-color: var(--quinn-bg);
+  color: var(--quinn-text);
+}
+
+a, .md-nav__link--active {
+  color: var(--quinn-accent);
+}
+
+.md-header, .md-footer {
+  background-color: var(--quinn-bg);
+}
+
+.quinn-avatar {
+  max-width: 280px;
+  border-radius: 20px;
+}
